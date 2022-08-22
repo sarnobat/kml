@@ -1,1 +1,1 @@
-/Applications/Google\ Earth\ Pro.app/Contents/MacOS/Google\ Earth 2020-06\ kml\ import.kml
+/Applications/Google\ Earth\ Pro.app/Contents/MacOS/Google\ Earth helloworld.kml
